@@ -25,13 +25,11 @@ International Conference on System Sciences, 2022
 * **Zhendong Wang**, Yi Wang, and David Redmiles. From specialized mechanics to
 project butlers: the usage of bots in OSS development. IEEE Software, 2022
 * Sandeep Kaur Kuttal, Xiaofan Chen, **Zhendong Wang**, Sogol Balali, and Anita
-Sarma. Visual Resume: Exploring developers’ online contributions for hiring. In-
-formation and Software Technology, 138:106633, 2021
+Sarma. Visual Resume: Exploring developers’ online contributions for hiring. Information and Software Technology, 138:106633, 2021
 * **Zhendong Wang**, Yang Feng, Yi Wang, James A. Jones, and David Redmiles.
 Unveiling elite developers’ activities in open source projects. ACM Trans. Softw.
 Eng. Methodol., 29(3), June 2020
-* Yi Wang, **Zhendong Wang**, and David Redmiles. The co-evolution of trust and co-
-ordination in global software development teams-an extensible evolutionary game
+* Yi Wang, **Zhendong Wang**, and David Redmiles. The co-evolution of trust and coordination in global software development teams-an extensible evolutionary game
 theory model. In Proceedings of the 52nd Hawaii International Conference on
 System Sciences, 2019
 * Sandeep Kaur Kuttal, Anita Sarma, Gregg Rothermel, and **Zhendong Wang**. What
