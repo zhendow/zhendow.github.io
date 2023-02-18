@@ -47,7 +47,6 @@ Wang**. Hiring in the global stage: Profiles of online contributions. In 2016 IE
 
 * 2020 **Doctoral Symposium**, the 28th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering
 * 2018 **Chair’s Award**, Department of Informatics, University of California, Irvine
-* 2016 **Best Paper Award**, for 11th International Conference on Global Software En-
-gineering, Irvine
+* 2016 **Best Paper Award**, for 11th International Conference on Global Software Engineering, Irvine
 * 2013–2014 Nomination of **CSE Student Researcher Award**, University of Nebraska, Lincoln
 * 2012–2014 **Partnership Development Program Scholarship**, University of Nebraska, Lincoln
