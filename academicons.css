@@ -1,0 +1,11 @@
+@font-face {
+  font-family: 'Academicons';
+  src: url('fonts/academicons.eot?30a3c0e5f0c8d4aab79a40db876afae2');
+  src: url('fonts/academicons.eot?30a3c0e5f0c8d4aab79a40db876afae2#iefix') format('embedded-opentype'),
+       url('fonts/academicons.ttf?30a3c0e5f0c8d4aab79a40db876afae2') format('truetype'),
+       url('fonts/academicons.woff2?30a3c0e5f0c8d4aab79a40db876afae2') format('woff2'),
+       url('fonts/academicons.woff?30a3c0e5f0c8d4aab79a40db876afae2') format('woff'),
+       url('fonts/academicons.svg?30a3c0e5f0c8d4aab79a40db876afae2#academicons') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
