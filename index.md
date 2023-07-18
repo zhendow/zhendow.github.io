@@ -1,9 +1,9 @@
-Zhendong Wang has earned his Ph.D. degree in Software Engineering at the University of California, Irvine, under the supervision of [Dr. David Redmiles](https://redmiles.ics.uci.edu/). His research focuses on leveraging expertise and enhancing software engineering productivity in distributed development practice.
+Zhendong Wang received his Ph.D. degree in Software Engineering at the University of California, Irvine, under the supervision of [Dr. David Redmiles](https://redmiles.ics.uci.edu/). His research focuses on leveraging expertise and enhancing software engineering productivity in distributed development practice.
 
 ## Educuation
 
 * 2018 - 2023   		  Ph.D. in Software Engineering, University of California, Irvine
-* 2016 – 2018             M.S. in Software Engineering, Univeristy of California, Irvine
+* 2016 – 2018             M.S. in Software Engineering, University of California, Irvine
 * 2010 – 2014             B.S. in Computer Science and Mathematics, University of Nebraska, Lincoln
 
 ## Experience
@@ -27,7 +27,7 @@ Sarma. Visual Resume: Exploring developers’ online contributions for hiring. I
 Unveiling Elite Developers’ Activities in Open Source Projects. ACM Trans. Softw.
 Eng. Methodol., 29(3), June 2020 [[doi]](https://doi.org/10.1145/3387111)
 * **Zhendong Wang**, Yi Wang, and David Redmiles. Competence-confidence gap:
-A threat to female developers’ contribution on GitHub. In 40th International
+A Threat to female developers’ Contribution on GitHub. In 40th International
 Conference on Software Engineering 2018, Software Engineering in Society, 2018 [[doi]](https://doi.org/10.1145/3183428.3183437)
 * Anita Sarma, Xiaofan Chen, Sandeep Kuttal, Laura Dabbish, and **Zhendong
 Wang**. Hiring in the global stage: Profiles of online contributions. In 2016 IEEE
